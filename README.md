@@ -18,11 +18,11 @@
     }
 
     h1, h2 {
-        font-size: 40pt;
+        font-size: 60pt;
     }
 
     h3, p {
-        font-size: 15pt;
+        font-size: 12pt;
     }
 
     section {
@@ -36,7 +36,7 @@
     <h1>SCHOOL PROJECTS</h1>
 
     <section>
-        <h2>XS</h2>
+        <h1>XS</h1>
         <h3>FOOT BRIDGE, KRKONOŠE</h3>
         <h3>Appearance and Construction of the Footbridge​</h3>
         <p>The appearance and construction of this footbridge naturally stem from its location and specific conditions. The design of the footbridge over the Renner Stream was significantly influenced by the requirement for its drivability, which led to the widening of the cross-section to 3.3 meters at its narrowest point and the use of massive structural elements. Despite the challenges in design, this construction allowed for easier transportation of the footbridge to its final position. This made it possible to use a structural element that spans the entire seven-meter gap between the stone pylons on either side of the Renner Stream. The load-bearing elements consist of steel pressed „U“ profiles with a total length of 8 meters, covering 7 meters of the stream‘s width and 0.5 meters of placement on the pylons on both sides.</p>
@@ -46,7 +46,7 @@
     </section>
 
     <section>
-        <h2>M</h2>
+        <h1>M</h1>
         <h3>MUNICIPAL LIBRARY, PRACHATICE</h3>
         <h3>Context and Site</h3>
         <p>The site is located in close proximity to the historic core of Prachatice. Throughout the design process, it was essential to consider the presence of such a complex, self-contained area and to engage with the context of the territory. We are heavily influenced by the heritage conservation area. We do not, cannot, and do not want to encroach upon the designated park area. Štěpánka Park is on the verge of reconstruction, but for now, it remains in a deplorable state, lacking purpose.</p>
