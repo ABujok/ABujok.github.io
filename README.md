@@ -3,39 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>School Projects</title>
-    <style>
-        /* Apply the Bahnschrift font to the entire page */
-        body {
-            font-family: Bahnschrift;
-            margin: 15px;
-            line-height: 1.6;
+   <title>School Projects</title>
+<style>
+    /* Apply the Bahnschrift font to the entire page */
+    body {
+        font-family: "Bahnschrift", sans-serif;
+        margin: 15px;
+        line-height: 1.6;
+    }
+
+    h1, h2, h3, p {
+        font-family: "Bahnschrift", sans-serif;
+        color: #333;
+    }
+
+    h1, h2 {
+        font-size: 40pt;
+    }
+
+    h3, p {
+        font-size: 15pt;
+    }
+
+    section {
+        margin-bottom: 40px;
         }
 
-        h1, h2, h3 {
-            font-family: Bahnschrift;
-            color: #333;
-        }
-
-        h1 {
-            font-size: 60px;
-        }
-
-        h2 {
-            font-size: 60px;
-        }
-
-        h3 {
-            font-size: 15px;
-        }
-
-        p {
-            font-size: 15px;
-        }
-
-        section {
-            margin-bottom: 40px;
-        }
     </style>
 </head>
 <body>
