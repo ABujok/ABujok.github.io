@@ -45,7 +45,7 @@
         <p>In the initial concepts, a minimalist bench was placed at the edge of the footbridge, allowing tourists to enjoy the view of the valley through which the stream flows. As the design evolved, the bench grew in size and became integrated into the footbridge, eventually merging both elements into a single shape and structure. The footbridge is oriented towards the most beautiful view, offering a glimpse through the valley onto the densely forested surrounding hills. The curve of the right side of the footbridge changes and adapts analogously to the contours of the valley formed by the stream. This allows users to comfortably sit on the edge of the footbridge or almost lie down at the widest point of the cross-section, without intruding on the driveable width of the footbridge.</p>
     </section>
 
-    <section>
+    
         <h1>M</h1>
         <h3>MUNICIPAL LIBRARY, PRACHATICE</h3>
         <h3>Context and Site</h3>
@@ -62,11 +62,11 @@
         <h1>L</h1>
         <h3>UNIVERSITY LIBRARY, MILAN</h3>
         <h3>Proposed design</h3>
-        <p>In response to the block‘s historical and current functions, the design introduces a specialized library that provides vital resources for the universities integrated into the existing structure of the block and of the city of Milan. The library is conceived as a hub of knowledge and research, housing extensive collections from the participating universities, the Società Umanitaria, and the ever-growing archives of Milan. In addition to public and specialized reading rooms, the library will offer research facilities, with areas dedicated to the study of historical documents and archival materials.
+        <p>In response to the block‘s historical and current functions, the design introduces a specialized library that provides vital resources for the universities integrated into the existing structure of the block and of the city of Milan. The library is conceived as a hub of knowledge and research, housing extensive collections from the participating universities, the Società Umanitaria, and the ever-growing archives of Milan. In addition to public and specialized reading rooms, the library will offer research facilities, with areas dedicated to the study of historical documents and archival materials.</p>
         
-        To support the educational mission of the universities, the project also includes flexible, multi-functional spaces such as seminar rooms and conference areas. These spaces are intended to be rented out to students and faculty, fostering collaboration and offering an accessible venue for lectures, workshops, and academic meetings.
+        <p>To support the educational mission of the universities, the project also includes flexible, multi-functional spaces such as seminar rooms and conference areas. These spaces are intended to be rented out to students and faculty, fostering collaboration and offering an accessible venue for lectures, workshops, and academic meetings.</p>
         
-        The design further accommodates modern office spaces that serve as startup hubs for recent graduates or students needing a professional base near their university. These offices are designed to promote interdisciplinary collaboration and innovation, with direct access to the library and university resources. A significant portion of the building is thus dedicated to supporting the academic and professional growth of the students and recent graduates, making the space not just a repository of knowledge but an active part of the educational ecosystem.</p>
+        <p>The design further accommodates modern office spaces that serve as startup hubs for recent graduates or students needing a professional base near their university. These offices are designed to promote interdisciplinary collaboration and innovation, with direct access to the library and university resources. A significant portion of the building is thus dedicated to supporting the academic and professional growth of the students and recent graduates, making the space not just a repository of knowledge but an active part of the educational ecosystem.</p>
     </section>
 
     <section>
@@ -86,14 +86,43 @@
         <h1>XXL</h1>
         <h3>REVITALIZATION OF THE OPAVA RIVERFRONT</h3>
         <h3>Pedestrian Connectivity</h3>
-        <p>The project introduces a new pedestrian bridge, strategically placed to link both sides of the river and integrate seamlessly into the existing street grid...</p>
+        <p>The project introduces a new pedestrian bridge, strategically placed to link both sides of the river and integrate seamlessly into the existing street grid. The design includes improvements to the bridge entrances and the surrounding streetscape, enhancing accessibility and flow. Alongside the bridge, the massing of new buildings along the adjacent streets is carefully considered to align with the surrounding urban context.</p>
+        
+        <h3>Park Development and School Connection</h3>
+
+        <p>One of the core features is the connection between the local elementary school and the nearby football field, achieved through the creation of a linear park. This space is designed to cater to young athletes, students, and waiting parents, offering recreational and green spaces for the community. A new bridge over the river’s tributary also enhances the connection between these spaces.</p>
+
+        <h3>Promenade and Cycling Path</h3>
+
+        <p>A key element of the project is the design of a continuous riverside promenade and a cycling path. This walkway runs along the banks, allowing for uninterrupted pedestrian and cyclist movement through the town, integrating the waterfront more deeply into the city’s daily life. The promenade is expanded at points to create seating areas, greenery, and „meanders“ where people can gather and relax.</p>
+
+        <h3>Flood Protection and Lower Park Expansion</h3>
+
+        <p>The lower part of the park has been extended to improve flood protection along the riverbank. A carefully designed paved upper park, combined with an orchard, connects the two park levels. The transition between the levels is marked by a cycling path and walking promenade, ensuring smooth movement while also enhancing the park’s visual appeal.5. Integration with the Urban Plan.The project includes the integration of school grounds into the park, enabling future school expansion. The remaining space has been dedicated to a public park. The design adheres to the urban plan’s guidelines for the site, repurposing former garage and garden colony areas for civic and public use.</p>
+
+        <h3>Integration with the Urban Plan</h3>
+
+        <p>The project includes the integration of school grounds into the park, enabling future school expansion. The remaining space has been dedicated to a public park. The design adheres to the urban plan’s guidelines for the site, repurposing former garage and garden colony areas for civic and public use.</p>
+
+        <h3>Contrasting Riverbanks</h3>
+
+        <p>The riverbanks are designed to offer distinct experiences. On one side, a paved embankment hosts urban markets and public events, while the other features a green strip transitioning directly into the river. A narrow fisherman’s path runs through this green belt, adding a natural touch. The riverside wall aligns with the fences of adjacent private properties, lowering to create more openness and interaction with the landscape.</p>
+
+        <h3>Modernist Architecture Meets Nature</h3>
+
+        <p>The revitalized riverfront acts as an extension of the nearby modernist residential areas, establishing a cohesive green corridor that connects these neighborhoods to the river. The park is organized with a clear hierarchy of functions: cycling and pedestrian paths, a network of streets that respond to the surrounding urban fabric, and sloped or flat park areas tailored to various recreational needs.</p>
+
     </section>
 
     <section>
         <h1>KEY PROFESSIONAL PROJECTS</h1>
         <h1>S</h1>
-        <h3>REVITALIZATION OF THE OPAVA RIVERFRONT</h3>
-        <p>The objective of this study was to design a minimalist family house on a sloped plot in the village of Podhradí...</p>
+        <h3>CABIN FOR A COUPLE, PODHRADÍ U AŠE</h3>
+        <p>The objective of this study was to design a minimalist family house on a sloped plot in the village of Podhradí, located in the Sudetes region, 5 km north of Aš, in the Czech Republic. The plot, situated on the edge of the village and near a forest, offers scenic views of the valley. The terrain features two terraces, with the house positioned on the upper one.</p>
+
+        <p>The design consists of a single-story structure with a gabled roof, oriented towards the valley. The layout includes an open-plan living space with a box that houses the entrance, bathroom, technical room, kitchen, and sleeping area in a loft above. The interior is clad in birch plywood with light grey marmoleum flooring, while the exterior features a light beige plaster finish. Windows have matching frames, and the roof is covered with light grey aluminum sheets.</p>
+
+        <p>The design preserves the mature trees on the site, which enhance the atmosphere and provide natural shading.</p>
 
         <h1>L</h1>
         <h3>COMMUNITY HOUSE, HUMPOLEC</h3>
