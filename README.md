@@ -26,7 +26,7 @@
     }
 
     section {
-        margin-bottom: 40px;
+        margin-bottom: 60px;
         }
 
     </style>
@@ -59,7 +59,7 @@
     </section>
 
     <section>
-        <h2>L</h2>
+        <h1>L</h1>
         <h3>UNIVERSITY LIBRARY, MILAN</h3>
         <h3>Proposed design</h3>
         <p>In response to the block‘s historical and current functions, the design introduces a specialized library that provides vital resources for the universities integrated into the existing structure of the block and of the city of Milan. The library is conceived as a hub of knowledge and research, housing extensive collections from the participating universities, the Società Umanitaria, and the ever-growing archives of Milan. In addition to public and specialized reading rooms, the library will offer research facilities, with areas dedicated to the study of historical documents and archival materials.
@@ -70,37 +70,42 @@
     </section>
 
     <section>
-        <h2>XL</h2>
+        <h1>XL</h1>
         <h3>PODBĚLOHORSKÁ RESIDENCES, PRAHA</h3>
         <h3>Project Context and Concept</h3>
-        <p>The area surrounding our parcel is dominated by Podbělohorská Street, a thoroughfare designed for cars, where the existing development has become fragmented and disconnected. The surrounding, quieter streets have been transformed, turning their backs on Podbělohorská Street. New residential clusters have become increasingly isolated, locked away behind private gates.
+        <p>The area surrounding our parcel is dominated by Podbělohorská Street, a thoroughfare designed for cars, where the existing development has become fragmented and disconnected. The surrounding, quieter streets have been transformed, turning their backs on Podbělohorská Street. New residential clusters have become increasingly isolated, locked away behind private gates.</p>
         
-        Until recently, our parcel was occupied by garages, warehouses, and workshops—some functional, others deteriorating. The complex was inaccessible, fenced off, and closed to the public. As these garages and warehouses are being removed, new construction is planned. This development must rethink the relationship with Podbělohorská Street.
+        <p>Until recently, our parcel was occupied by garages, warehouses, and workshops—some functional, others deteriorating. The complex was inaccessible, fenced off, and closed to the public. As these garages and warehouses are being removed, new construction is planned. This development must rethink the relationship with Podbělohorská Street.</p>
         
-        In my project, I intentionally leave a significant portion of the land open and thoughtfully designed, yet minimally defined, allowing it to adapt and respond to future needs. This open space, anchored by a small structure at its edge where it meets Podbělohorská Street, acts as a subtle signal that something is happening here—a point of interest in the landscape.
+        <p>In my project, I intentionally leave a significant portion of the land open and thoughtfully designed, yet minimally defined, allowing it to adapt and respond to future needs. This open space, anchored by a small structure at its edge where it meets Podbělohorská Street, acts as a subtle signal that something is happening here—a point of interest in the landscape.</p>
         
-        The design of the proposed buildings is based on rational volumes and comfortable layouts. The structures are oriented to maximize views, relieve the urban density, and emphasize the unique topography of the site. The spaces between the buildings are enhanced with low walls, providing a buffer from the streets, creating a visual connection to the slope, and forming private or communal gardens accessible to all residents. The project anticipates housing 299 residents with 120 parking spaces.</p>
+        <p>The design of the proposed buildings is based on rational volumes and comfortable layouts. The structures are oriented to maximize views, relieve the urban density, and emphasize the unique topography of the site. The spaces between the buildings are enhanced with low walls, providing a buffer from the streets, creating a visual connection to the slope, and forming private or communal gardens accessible to all residents. The project anticipates housing 299 residents with 120 parking spaces.</p>
     </section>
 
     <section>
-        <h2>XXL</h2>
+        <h1>XXL</h1>
         <h3>REVITALIZATION OF THE OPAVA RIVERFRONT</h3>
         <h3>Pedestrian Connectivity</h3>
         <p>The project introduces a new pedestrian bridge, strategically placed to link both sides of the river and integrate seamlessly into the existing street grid...</p>
     </section>
 
     <section>
-        <h2>KEY PROFESSIONAL PROJECTS</h2>
-        <h3>S</h3>
+        <h1>KEY PROFESSIONAL PROJECTS</h1>
+        <h1>S</h1>
         <h3>REVITALIZATION OF THE OPAVA RIVERFRONT</h3>
         <p>The objective of this study was to design a minimalist family house on a sloped plot in the village of Podhradí...</p>
 
-        <h3>L</h3>
+        <h1>L</h1>
         <h3>COMMUNITY HOUSE, HUMPOLEC</h3>
         <p>This project centers on the reconstruction and potential extensions of a building complex bounded by Soukenická, Husova, and Smetanova streets...</p>
 
-        <h3>XL</h3>
+        <h1>XL</h1>
         <h3>ALBRECHTICE NAD VLTAVOU SQUARE</h3>
+        <p>The village square currently lacks a defined center and primarily serves as a parking lot and bus turnaround...</p>
+    </section>
+
+        <h1>XXL</h1>
+        <h3>TUCHLOVICE SQUARE</h3>
         <p>The village square currently lacks a defined center and primarily serves as a parking lot and bus turnaround...</p>
     </section>
 
