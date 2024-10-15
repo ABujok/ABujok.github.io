@@ -22,7 +22,7 @@
         }
 
         h2 {
-            font-size: 15px;
+            font-size: 60px;
         }
 
         h3 {
