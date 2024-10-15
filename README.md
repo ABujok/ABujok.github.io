@@ -128,9 +128,7 @@
 
     <section>
         <h1>KEY PROFESSIONAL PROJECTS</h1>
-    </section>
-
-    <section>
+    
         <h1>S</h1>
         <h3>CABIN FOR A COUPLE, PODHRADÍ U AŠE</h3>
         <h3>Design Proposal Summary</h3>
