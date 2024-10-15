@@ -7,26 +7,26 @@
     <style>
         /* Apply the Bahnschrift font to the entire page */
         body {
-            font-family: "Bahnschrift", sans-serif;
+            font-family: Bahnschrift;
             margin: 20px;
             line-height: 1.6;
         }
 
         h1, h2, h3 {
-            font-family: "Bahnschrift", sans-serif;
+            font-family: Bahnschrift;
             color: #333;
         }
 
         h1 {
-            font-size: 36px;
+            font-size: 40px;
         }
 
         h2 {
-            font-size: 28px;
+            font-size: 16px;
         }
 
         h3 {
-            font-size: 22px;
+            font-size: 16px;
         }
 
         p {
