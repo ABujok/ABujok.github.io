@@ -32,6 +32,18 @@
     </style>
 </head>
 <body>
+    
+    <h1>PORTFOLIO APPROACH</h1>
+
+    <section>
+    
+    <p>In this portfolio, I only present projects in which I was directly involved throughout all their phases. In the architectural studios, I have worked on each stage of the projects—from initial design studies to construction documentation and on-site supervision. For the sake of brevity, I do not separately highlight each project phase.</p>
+
+ 
+
+    <p>The final contribution to this portfolio showcases my analog photography (Pentax MX), reflecting my primary passion outside of architecture.</p>
+
+    <section>
 
     <h1>SCHOOL PROJECTS</h1>
 
@@ -160,17 +172,17 @@
     <section>
         <h1>XXL</h1>
         <h3>TUCHLOVICE SQUARE</h3>
-        <p>Current state</h3>
+        <h3>Current state</h3>
 
-<p>Tuchlovice Square currently lacks the qualities of a true town center. It fails to support pedestrian flow, cultural events, or function as a cohesive public space. The area, positioned at the intersection of Ke Stráži and Karlovarská streets, suffers from disconnection and inconsistent urban solutions. However, the space offers significant potential.
+    <p>Tuchlovice Square currently lacks the qualities of a true town center. It fails to support pedestrian flow, cultural events, or function as a cohesive public space. The area, positioned at the intersection of Ke Stráži and Karlovarská streets, suffers from disconnection and inconsistent urban solutions. However, the space offers significant potential.</p>
 
 ​
 
-The design strategy
+    <h3>The design strategy</h3>
 
-Our design strategy focuses on revitalizing existing layers rather than introducing entirely new ones. We aim to enhance the functional diversity of both sides of Karlovarská street, creating a pedestrian-friendly environment with green spaces and public amenities. The plan introduces better connectivity between key community spaces, such as shops, parks, and recreational areas, while maintaining and integrating mature trees as essential elements of the square‘s character. A new multi-functional structure will combine a bus stop, retail, public restrooms, and event facilities, ensuring the space serves both daily needs and larger town gatherings.
+    <p>Our design strategy focuses on revitalizing existing layers rather than introducing entirely new ones. We aim to enhance the functional diversity of both sides of Karlovarská street, creating a pedestrian-friendly environment with green spaces and public amenities. The plan introduces better connectivity between key community spaces, such as shops, parks, and recreational areas, while maintaining and integrating mature trees as essential elements of the square‘s character. A new multi-functional structure will combine a bus stop, retail, public restrooms, and event facilities, ensuring the space serves both daily needs and larger town gatherings.</p>
 
-The square’s design emphasizes flexibility, allowing it to host a wide range of community events, from markets to festivals, transforming it into a vibrant and essential public space for Tuchlovice.</p>
+    <p>The square’s design emphasizes flexibility, allowing it to host a wide range of community events, from markets to festivals, transforming it into a vibrant and essential public space for Tuchlovice.</p>
     </section>
 
     </body>
