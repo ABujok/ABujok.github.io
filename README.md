@@ -8,7 +8,7 @@
     /* Apply the Bahnschrift font to the entire page */
     body {
         font-family: "Bahnschrift", sans-serif;
-        margin: 15px;
+        margin: 10px;
         line-height: 1.6;
     }
 
@@ -18,7 +18,7 @@
     }
 
     h1, h2 {
-        font-size: 60pt;
+        font-size: 80pt;
     }
 
     h3, p {
@@ -45,7 +45,7 @@
         <p>In the initial concepts, a minimalist bench was placed at the edge of the footbridge, allowing tourists to enjoy the view of the valley through which the stream flows. As the design evolved, the bench grew in size and became integrated into the footbridge, eventually merging both elements into a single shape and structure. The footbridge is oriented towards the most beautiful view, offering a glimpse through the valley onto the densely forested surrounding hills. The curve of the right side of the footbridge changes and adapts analogously to the contours of the valley formed by the stream. This allows users to comfortably sit on the edge of the footbridge or almost lie down at the widest point of the cross-section, without intruding on the driveable width of the footbridge.</p>
     </section>
 
-    
+    <section>
         <h1>M</h1>
         <h3>MUNICIPAL LIBRARY, PRACHATICE</h3>
         <h3>Context and Site</h3>
@@ -116,27 +116,62 @@
 
     <section>
         <h1>KEY PROFESSIONAL PROJECTS</h1>
+    </section>
+
+    <section>
         <h1>S</h1>
         <h3>CABIN FOR A COUPLE, PODHRADÍ U AŠE</h3>
+        <h3>Design Proposal Summary</h3>
         <p>The objective of this study was to design a minimalist family house on a sloped plot in the village of Podhradí, located in the Sudetes region, 5 km north of Aš, in the Czech Republic. The plot, situated on the edge of the village and near a forest, offers scenic views of the valley. The terrain features two terraces, with the house positioned on the upper one.</p>
 
         <p>The design consists of a single-story structure with a gabled roof, oriented towards the valley. The layout includes an open-plan living space with a box that houses the entrance, bathroom, technical room, kitchen, and sleeping area in a loft above. The interior is clad in birch plywood with light grey marmoleum flooring, while the exterior features a light beige plaster finish. Windows have matching frames, and the roof is covered with light grey aluminum sheets.</p>
+        </section>
 
-        <p>The design preserves the mature trees on the site, which enhance the atmosphere and provide natural shading.</p>
-
+        <section>
         <h1>L</h1>
         <h3>COMMUNITY HOUSE, HUMPOLEC</h3>
-        <p>This project centers on the reconstruction and potential extensions of a building complex bounded by Soukenická, Husova, and Smetanova streets...</p>
+        <h3>The Project Approach</h3>
+        <p>This project centers on the reconstruction and potential extensions of a building complex bounded by Soukenická, Husova, and Smetanova streets, with a southern service link connecting the department store and school. The scope includes the redesign of surrounding public spaces, focusing on the service road and the adjacent eastern park, serving as a key entry point to the event hall.</p>
 
-        <h1>XL</h1>
+        <p>The existing school and community center, having undergone various reconstructions—primarily in the 1990s—are a patchwork of different architectural phases. Our approach seeks to preserve the strengths of the original design while removing unnecessary alterations and optimizing functionality. The volumes are unified through a new architectural language, creating a cohesive whole.</p>
+
+        <p>Similarly, the surrounding public space is treated with an eye for urban integration. In collaboration with landscape architects, we have enhanced the existing green infrastructure, forming a promenade that connects key green spaces throughout the city. Perpendicular to this promenade, we introduce a new link between two major squares in Humpolec, aligning new civic amenities along these axes and situating new entrances to complement the layout.</p>
+     </section>
+
+    <section>
+        <h1>XL</h1>    
         <h3>ALBRECHTICE NAD VLTAVOU SQUARE</h3>
-        <p>The village square currently lacks a defined center and primarily serves as a parking lot and bus turnaround...</p>
-    </section>
+        <h3>Current state</h3>
 
+    <p>The village square currently lacks a defined center and primarily serves as a parking lot and bus turnaround. The proposed design seeks to transform this space into a cohesive, functional public area by unifying fragmented elements and removing barriers.</p>
+
+    <h3>The design proposal</h3>
+
+    <p>Key to the design is the enhancement of the visual axis toward the church tower, establishing a smooth transition from the urban environment to the natural landscape surrounding the Albrechtický stream.</p>
+
+    <p>In the southern section of the square, where the main axes intersect, we propose a central public space—a paved area designed for events and gatherings. This design also includes the removal of the road near František Král’s house, fully integrating it into the square and promoting a sense of community.</p>
+
+    <p>To create a more inviting atmosphere, the northern part of the square will be softened with greenery, featuring a terraced seating area shaded by trees. This area will provide a tranquil spot for visitors.</p>
+
+    <p>We will also realign the connection between the road and the chapel cemetery, reinforcing the ceremonial path, which is a significant feature of the village. The introduction of tall, solitary trees typical of the region will enhance the visual appeal and create a layered landscape, making the square a vibrant hub for social events and gatherings.</p>
+         
+        </section>
+
+    <section>
         <h1>XXL</h1>
         <h3>TUCHLOVICE SQUARE</h3>
-        <p>The village square currently lacks a defined center and primarily serves as a parking lot and bus turnaround...</p>
+        <p>Current state</h3>
+
+<p>Tuchlovice Square currently lacks the qualities of a true town center. It fails to support pedestrian flow, cultural events, or function as a cohesive public space. The area, positioned at the intersection of Ke Stráži and Karlovarská streets, suffers from disconnection and inconsistent urban solutions. However, the space offers significant potential.
+
+​
+
+The design strategy
+
+Our design strategy focuses on revitalizing existing layers rather than introducing entirely new ones. We aim to enhance the functional diversity of both sides of Karlovarská street, creating a pedestrian-friendly environment with green spaces and public amenities. The plan introduces better connectivity between key community spaces, such as shops, parks, and recreational areas, while maintaining and integrating mature trees as essential elements of the square‘s character. A new multi-functional structure will combine a bus stop, retail, public restrooms, and event facilities, ensuring the space serves both daily needs and larger town gatherings.
+
+The square’s design emphasizes flexibility, allowing it to host a wide range of community events, from markets to festivals, transforming it into a vibrant and essential public space for Tuchlovice.</p>
     </section>
 
-</body>
-</html>
+    </body>
+    </html>
