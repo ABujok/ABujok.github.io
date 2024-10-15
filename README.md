@@ -174,8 +174,6 @@
 
     <p>Tuchlovice Square currently lacks the qualities of a true town center. It fails to support pedestrian flow, cultural events, or function as a cohesive public space. The area, positioned at the intersection of Ke Stráži and Karlovarská streets, suffers from disconnection and inconsistent urban solutions. However, the space offers significant potential.</p>
 
-​
-
     <h3>The design strategy</h3>
 
     <p>Our design strategy focuses on revitalizing existing layers rather than introducing entirely new ones. We aim to enhance the functional diversity of both sides of Karlovarská street, creating a pedestrian-friendly environment with green spaces and public amenities. The plan introduces better connectivity between key community spaces, such as shops, parks, and recreational areas, while maintaining and integrating mature trees as essential elements of the square‘s character. A new multi-functional structure will combine a bus stop, retail, public restrooms, and event facilities, ensuring the space serves both daily needs and larger town gatherings.</p>
@@ -183,5 +181,4 @@
     <p>The square’s design emphasizes flexibility, allowing it to host a wide range of community events, from markets to festivals, transforming it into a vibrant and essential public space for Tuchlovice.</p>
     </section>
 
-    </body>
-    </html>
+    
